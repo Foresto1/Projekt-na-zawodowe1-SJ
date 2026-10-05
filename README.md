@@ -1,5 +1,5 @@
 # Projekt-na-zawodowe1-SJ
-- [ ]  Zrobić Makiete (Strony Wyścigów Jeszcze nie wymyśliłem jakich dokładnie)
+- [ ]  Zrobić Makiete (Strony Wyścigów Konnych
       # Etap 1 Makiety
 - [ ] Zrobić Główną Strone
 - [ ] Zrobić Podstrone
